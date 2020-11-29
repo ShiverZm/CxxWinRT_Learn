@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>D:\workspace\vs2019\HelloWinRT\Debug\02HelloWinRTApp\02HelloWinRTApp.exe</ProjectOutputs>
+  <ContentFiles>D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\Assets\LockScreenLogo.scale-200.png;D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\Assets\SplashScreen.scale-200.png;D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\Assets\Square150x150Logo.scale-200.png;D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\Assets\Square44x44Logo.scale-200.png;D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png;D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\Assets\StoreLogo.png;D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\Assets\Wide310x150Logo.scale-200.png</ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>

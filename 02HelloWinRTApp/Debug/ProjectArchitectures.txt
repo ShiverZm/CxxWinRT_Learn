@@ -1,0 +1,1 @@
+D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\02HelloWinRTApp.vcxproj;x86

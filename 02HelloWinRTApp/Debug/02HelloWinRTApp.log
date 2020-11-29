@@ -1,0 +1,6 @@
+﻿  App.cpp
+  MainPage.cpp
+D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\MainPage.cpp(32,58): warning C4100: “e”: 未引用的形参
+D:\workspace\vs2019\HelloWinRT\02HelloWinRTApp\MainPage.cpp(31,57): warning C4100: “sender”: 未引用的形参
+  XamlTypeInfo.g.cpp
+  02HelloWinRTApp.vcxproj -> D:\workspace\vs2019\HelloWinRT\Debug\02HelloWinRTApp\02HelloWinRTApp.exe

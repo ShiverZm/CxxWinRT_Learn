@@ -1,0 +1,3 @@
+D:\workspace\vs2019\HelloWinRT\01HelloWinRT\Debug\01HelloWinRT.vcxproj.MdMergeInputs.cache
+D:\workspace\vs2019\HelloWinRT\01HelloWinRT\Debug\01HelloWinRT.vcxproj.cppwinrt_plat.cache
+D:\workspace\vs2019\HelloWinRT\01HelloWinRT\Debug\01HelloWinRT.vcxproj.cppwinrt_comp.cache

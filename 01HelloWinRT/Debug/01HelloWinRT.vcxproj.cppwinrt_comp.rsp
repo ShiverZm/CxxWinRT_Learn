@@ -1,0 +1,1 @@
+-overwrite -name _01HelloWinRT -pch pch.h -prefix -comp "Debug\Generated Files\sources" -opt   -out "Debug\Generated Files\."
